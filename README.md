@@ -1,6 +1,13 @@
 test add
 # git_0317
 main
+<<<<<<< HEAD
 ##member
-mef fff
 
+ef fff
+
+=======
+#klfdmklf
+member
+me
+>>>>>>> conflict
